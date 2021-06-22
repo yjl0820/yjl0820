@@ -1,5 +1,5 @@
 ## Hi there 👋
-### ⌨️ Student majoring Data Science 
+### ⌨️ Student majoring in Data Science 
 #### Currently:
 - 😎 studying machine learning libraries - and japanese!! 🏯
 - 🧮 trying to get all the Mathematics in my head 😂 
