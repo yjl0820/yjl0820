@@ -1,7 +1,7 @@
 ## Hi there 👋
-### ⌨️ Student majoring in Data Science 
+### ⌨️ Student majoring in Computational Data Science 
 #### Currently:
-- 😎 studying machine learning libraries - and japanese!! 🏯
+- 😎 studying machine learning!! 🏯
 - 🧮 trying to get all the Mathematics in my head 😂 
 - 🏃‍♀️ assist with data management for project research
 - 🤧 coding for a competition 
