@@ -1,16 +1,24 @@
 ## Hi there 👋
-### ⌨️ Student majoring in Computational Data Science 
-#### Currently:
-- 😎 studying machine learning!! 🏯
-- 🧮 trying to get all the Mathematics in my head 😂 
-- 🏃‍♀️ assist with data management for project research
-- 🤧 coding for a competition 
+### ⌨️ Student majoring in Computational Data Science + minoring in Mathematics
+#### Currently ⌚️:
+- 😎 studying ML,AI, Regression Analysis!! Never ending learning 🏯
+- 💥 having fun with tableau and building dashboards! 💙 the aesthetics
+- 👾 working as data lead for two projects - taking care of the whole ETL. 
+- 🌞 getting healthier! out for a jog at 6am
+- 🧮 soon to graduate 🤭 
 - 📺 watching Schitt's Creek 💛 (I'm loving it)
 
+#### Some History 🗺:
+- 🏃‍ interned as a Business Data Analyst in the Product Management team. (Had so much fun building pricing algorithms)
+- 🎁 interned as a Supply Chain Analyst. (lots and lots of forecasting and planning)
+- 🧵 assisted with data management for project research
+- 🤧 won Hackathon in social justice area using fake news detector
 
-#### Interets:
-- 🌱 MLOps
-- ☁️ Google Cloud
+
+#### Interets 👓:
+- 🌱 MLOps + Data visualization
+- 🏅 Technology + Consumer goods
+- ☁️  Tableau + PowerBI 
 - 🤖 Graduation & Job
 - 🐶 my dog!!! she always gets my attention 🐕🤍
 
