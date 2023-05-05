@@ -3,8 +3,8 @@
 #### Currently ⌚️:
 - 😎 studying ML,AI, Regression Analysis!! Never ending learning 🏯
 - 💥 having fun with tableau and building dashboards! 💙 the aesthetics
-- 👾 working as data lead for two projects - taking care of the whole ETL. 
-- 🌞 getting healthier! out for a jog at 6am
+- 👾 working as data lead for two projects - taking care of the ETL. 
+- 🌞 getting healthier! out for a jog at 6am & eating clean
 - 🧮 soon to graduate 🤭 
 - 📺 watching Schitt's Creek 💛 (I'm loving it)
 
